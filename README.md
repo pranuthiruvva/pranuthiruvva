@@ -4,7 +4,8 @@ A passionate DevOps Professional with 4.5 years of hands-on experience in AWS Cl
 🚀 I am open to collaborating on projects related to DevOps, cloud computing, automation, and CI/CD pipelines. I am always eager to learn new technologies and contribute to innovative solutions that drive efficiency and scalability in cloud infrastructure.
 
 
-💻 Tech Stack & Skills
+💻 Tech Stack & Skills:
+
 Linux, Jenkins, Maven, Ansible, Docker, Kubernetes, Terraform, ArgoCD, Prometheus, Grafana, SonarQube, Trivy, Shell Scripting, Python, ServiceNow, JIRA, Git 
 
 🌟 Let's connect and build something amazing together in cloud and Devops!
