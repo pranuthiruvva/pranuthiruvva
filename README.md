@@ -5,6 +5,6 @@ A passionate DevOps Professional with 4.5 years of hands-on experience in AWS Cl
 
 
 💻 Tech Stack & Skills
-Linux Jenkins Maven Ansible Docker Kubernetes Terraform ArgoCD Prometheus Grafana CI/CD SonarQube Trivy Shell Scripting Python ServiceNow JIRA Git 
+Linux, Jenkins, Maven, Ansible, Docker, Kubernetes, Terraform, ArgoCD, Prometheus, Grafana, SonarQube, Trivy, Shell Scripting, Python, ServiceNow, JIRA, Git 
 
 🌟 Let's connect and build something amazing together in cloud and Devops!
